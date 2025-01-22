@@ -8,6 +8,7 @@ package studentlist;
 
  *
  * @author fagun at 28/04/2024
+ email: eeee
  */
 public class Student {
     private String name;
